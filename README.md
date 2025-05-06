@@ -1,1 +1,2 @@
-# tugas-pert-4-
+parsing data
+
